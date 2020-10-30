@@ -1,0 +1,24 @@
+{
+  "name": "examplebot",
+  "version": "1.0.0",
+  "description": "This bot retweets the latest tweet using the [\"`#mediaarts`\"][twitter-mediaarts] hashtag. It attempts to retweet once per hour.",
+  "main": "bot.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonofglynn/TwitterBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonofglynn/TwitterBot/issues"
+  },
+  "homepage": "https://github.com/sonofglynn/TwitterBot#readme"
+}
